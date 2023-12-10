@@ -1,0 +1,6 @@
+@DemoExchangeRate_HostAddress = http://localhost:5264
+
+GET {{DemoExchangeRate_HostAddress}}/api/exchange-rates?country=MEX
+Accept: application/json
+
+###
